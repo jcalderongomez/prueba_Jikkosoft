@@ -1,0 +1,28 @@
+C:\Users\juan_\source\repos\ListaEnteros\ListaEnteros\bin\Debug\net8.0\ListaEnteros.exe
+C:\Users\juan_\source\repos\ListaEnteros\ListaEnteros\bin\Debug\net8.0\ListaEnteros.deps.json
+C:\Users\juan_\source\repos\ListaEnteros\ListaEnteros\bin\Debug\net8.0\ListaEnteros.runtimeconfig.json
+C:\Users\juan_\source\repos\ListaEnteros\ListaEnteros\bin\Debug\net8.0\ListaEnteros.dll
+C:\Users\juan_\source\repos\ListaEnteros\ListaEnteros\bin\Debug\net8.0\ListaEnteros.pdb
+C:\Users\juan_\source\repos\ListaEnteros\ListaEnteros\obj\Debug\net8.0\ListaEnteros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\source\repos\ListaEnteros\ListaEnteros\obj\Debug\net8.0\ListaEnteros.AssemblyInfoInputs.cache
+C:\Users\juan_\source\repos\ListaEnteros\ListaEnteros\obj\Debug\net8.0\ListaEnteros.AssemblyInfo.cs
+C:\Users\juan_\source\repos\ListaEnteros\ListaEnteros\obj\Debug\net8.0\ListaEnteros.csproj.CoreCompileInputs.cache
+C:\Users\juan_\source\repos\ListaEnteros\ListaEnteros\obj\Debug\net8.0\ListaEnteros.dll
+C:\Users\juan_\source\repos\ListaEnteros\ListaEnteros\obj\Debug\net8.0\refint\ListaEnteros.dll
+C:\Users\juan_\source\repos\ListaEnteros\ListaEnteros\obj\Debug\net8.0\ListaEnteros.pdb
+C:\Users\juan_\source\repos\ListaEnteros\ListaEnteros\obj\Debug\net8.0\ListaEnteros.genruntimeconfig.cache
+C:\Users\juan_\source\repos\ListaEnteros\ListaEnteros\obj\Debug\net8.0\ref\ListaEnteros.dll
+C:\Users\juan_\Documents\Pruebas Técnicas\Jikkosoft\ListaEnteros\ListaEnteros\bin\Debug\net8.0\ListaEnteros.exe
+C:\Users\juan_\Documents\Pruebas Técnicas\Jikkosoft\ListaEnteros\ListaEnteros\bin\Debug\net8.0\ListaEnteros.deps.json
+C:\Users\juan_\Documents\Pruebas Técnicas\Jikkosoft\ListaEnteros\ListaEnteros\bin\Debug\net8.0\ListaEnteros.runtimeconfig.json
+C:\Users\juan_\Documents\Pruebas Técnicas\Jikkosoft\ListaEnteros\ListaEnteros\bin\Debug\net8.0\ListaEnteros.dll
+C:\Users\juan_\Documents\Pruebas Técnicas\Jikkosoft\ListaEnteros\ListaEnteros\bin\Debug\net8.0\ListaEnteros.pdb
+C:\Users\juan_\Documents\Pruebas Técnicas\Jikkosoft\ListaEnteros\ListaEnteros\obj\Debug\net8.0\ListaEnteros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\Pruebas Técnicas\Jikkosoft\ListaEnteros\ListaEnteros\obj\Debug\net8.0\ListaEnteros.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\Pruebas Técnicas\Jikkosoft\ListaEnteros\ListaEnteros\obj\Debug\net8.0\ListaEnteros.AssemblyInfo.cs
+C:\Users\juan_\Documents\Pruebas Técnicas\Jikkosoft\ListaEnteros\ListaEnteros\obj\Debug\net8.0\ListaEnteros.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\Pruebas Técnicas\Jikkosoft\ListaEnteros\ListaEnteros\obj\Debug\net8.0\ListaEnteros.dll
+C:\Users\juan_\Documents\Pruebas Técnicas\Jikkosoft\ListaEnteros\ListaEnteros\obj\Debug\net8.0\refint\ListaEnteros.dll
+C:\Users\juan_\Documents\Pruebas Técnicas\Jikkosoft\ListaEnteros\ListaEnteros\obj\Debug\net8.0\ListaEnteros.pdb
+C:\Users\juan_\Documents\Pruebas Técnicas\Jikkosoft\ListaEnteros\ListaEnteros\obj\Debug\net8.0\ListaEnteros.genruntimeconfig.cache
+C:\Users\juan_\Documents\Pruebas Técnicas\Jikkosoft\ListaEnteros\ListaEnteros\obj\Debug\net8.0\ref\ListaEnteros.dll
